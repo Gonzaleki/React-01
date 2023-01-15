@@ -1,0 +1,16 @@
+h1{
+    line-height: 20px;
+}
+
+label{
+    line-height: 20px;
+}
+
+.green-check{
+    background-color: green;
+}
+
+.red-check{
+    background-color: red;
+    font-weight: bold;
+}
